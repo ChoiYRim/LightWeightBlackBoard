@@ -23,7 +23,7 @@
     - Client가 방에 입장하면 채팅로그 및 오픈된 파일 정보 전달
   - 채팅
     - Client가 채팅을 입력하면 Server가 받아 다른 Client에게 전송
-    - Server에 입력된 채칭로그를 DB에 저장
+    - Server에 입력된 채로그를 DB에 저장
   - 파일 공유
     - Server가 파일을 저장하고 내용을 Client에게 전달
     - Client가 파일내용 수정 시 해당 내용을 Server가 받아 Client들에게 전달
